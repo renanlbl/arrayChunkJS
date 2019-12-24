@@ -1,0 +1,20 @@
+{
+  "name": "arraychuckjs",
+  "version": "1.0.0",
+  "description": "A package to chunk your array",
+  "main": "groupArray/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanlbl/arrayChunkJS.git"
+  },
+  "keywords": [],
+  "author": "Renan Lima <renanlimabl@gmail.com>",
+  "license": "Mit",
+  "bugs": {
+    "url": "https://github.com/renanlbl/arrayChunkJS/issues"
+  },
+  "homepage": "https://github.com/renanlbl/arrayChunkJS#readme"
+}
